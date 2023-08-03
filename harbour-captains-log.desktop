@@ -23,6 +23,6 @@ Permissions=Documents
 OrganizationName=harbour-captains-log
 ApplicationName=harbour-captains-log
 
-[X-HarbourBackup]
-BackupPathList=.local/share/harbour-captains-log/
-BackupConfigList=/apps/harbour-captains-log/
+#[X-HarbourBackup]
+#BackupPathList=.local/share/harbour-captains-log/
+#BackupConfigList=/apps/harbour-captains-log/
